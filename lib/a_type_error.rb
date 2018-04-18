@@ -1,3 +1,3 @@
-1 + 1
+number = 1 + 1
 
-1 + "is the loneliest number"
+number.string + "is the loneliest number"
